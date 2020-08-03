@@ -34,7 +34,7 @@
         * uploads local repository content to a remote repository.
 * The edits should render a webpage which resembles the image below
 
-<img src ="./instruction-images/syntax-template.png">
+<img src ="./instruction-images/syntax-template.png ">
 
 
 
